@@ -1,0 +1,172 @@
+{
+  "basics": {
+    "name": "Lewis Watson",
+    "label": "Senior Software Engineer",
+    "picture": "",
+    "email": "mrlewiswatson@gmail.com",
+    "phone": "",
+    "website": "https://registry.jsonresume.org/lewiswatson",
+    "summary": "Software Engineer with 9+ years experience spanning Cloud Web Applications down to embedded C applications. Currently a Senior Application Developer at CGI's Open Digital Services Centre where we specialise in developing customer solutions using open source technologies.",
+    "location": {
+      "postalCode": "KY2",
+      "city": "Kirkclady",
+      "countryCode": "GB",
+      "region": "Fife"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "LewisWatson",
+        "url": "https://uk.linkedin.com/in/lewiswatson"
+      },
+      {
+        "network": "GitHub",
+        "username": "LewisWatson",
+        "url": "https://github.com/LewisWatson"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ODSC - CGI UK",
+      "position": "Senior Software Engineer",
+      "website": "http://www.cgi-group.co.uk/",
+      "startDate": "2014-05-01",
+      "summary": "One of the first hires to CGI's newly opened Open Digital Services Centre in Glasgow, which specialises in developing solutions around Open Source and Open Standards. I have been fortunate to be involved in shaping some of the processes and culture of the office",
+      "highlights": [
+        "Currently senior developer on a project developing an Enterprise Service Bus to connect an Automated Traffic Management System to roadside devices. I'm gaining experience developing using technologies such as Red Hat JBoss Fuse Integration Services, Red Hat Openshift Cloud, Kubernetes, Apache Camel and Apache ActiveMQ.",
+        "Previously lead two projects for two separate public sector customers. One to deliver a data analysis system using ElasticSearch + MongoDB, and the other to modernize and automate a clients web service infrastructure. Both solutions were deployed using docker containers.",
+        "Senior developer on a remote agile scrum team developing Java components for a large public sector project. During this time I gained experience with Apache CXF, JBoss Fuse ESB, and JBoss Portal.",
+        "Produced a number technology demonstrations to aid in attracting business to the centre. This involved technologies such as docker, database virtalization, MongoDB, JBoss Fuse Enterprise Service Bus, Open Data Geospatial systems, Hadoop, and Lumify big data analysis + visualisation platform."
+      ]
+    },
+    {
+      "company": "Thales UK",
+      "position": "Software Engineer",
+      "website": "https://www.thalesgroup.com",
+      "startDate": "2007-06-01",
+      "endDate": "2014-05-01",
+      "summary": "Joined the Thales Graduate Development program straight from university and worked with them for 7 years. During this time I gained full stack development experience spanning web technologies (front-end and back-end) down to embedded application development.",
+      "highlights": [
+        "Developed a web based inventory tracking sytem Javascript frameworks such as Sencha ExtJS/Touch served up by PHP/ASP scripts connected to a MySQL database. My role also involved design, server configuration, replication, app deployment, and setting up a Continuous Integration environment for my team",
+        "Technical lead for a project developing an Engineering Resource Management system that automatically matched engineers to roles within the company. A key feature was the use of a business rules management system (BRMS) that enabled site administrators to change the applications business logic on the fly, allowing the system to rapidly adapt to changing priorities",
+        "Technical consultant for a team developing Windows C++ applications that used Nvidia CUDA to perform calculations on GPU's. I advised on best practice, converted the Visual Studio code to compile in GCC and install via the RPM Package Manager in Linux. I also designed and implemented an automated process for deploying the system into production devices via PXE network boot and a custom flavour of Fedora Linux",
+        "Developed a big data system designed to enable a major project to exploit large data sets more efficiently. I took on the roles of Software Architect, Developer, and Sysadmin in order to design, implement, and deploy a solution. The system incorporated C++ worker processes controlled via a HTML5 web app",
+        "Upgraded network interfaces on hard real-time embedded C application"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Heriot-Watt University",
+      "area": "Computer Science",
+      "studyType": "Bsc Hons",
+      "startDate": "2003-06-01",
+      "endDate": "2007-06-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Integration",
+      "level": "",
+      "keywords": [
+        "JBoss Fuse ESB",
+        "ActiveMQ Messaging",
+        "Apache Camel",
+        "Drools BPMS",
+        "DDS Messaging"
+      ]
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": [
+        "REST",
+        "SOAP"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "",
+      "keywords": [
+        "Azure",
+        "Rackspace",
+        "OpenShift",
+        "Containers (Docker)"
+      ]
+    },
+    {
+      "name": "Data",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "MariaDB/MySQL",
+        "Microsoft SQL Server"
+      ]
+    },
+    {
+      "name": "Build Chains",
+      "level": "",
+      "keywords": [
+        "Apache Maven",
+        "MsBuild",
+        "Apache Ant",
+        "Jenkins",
+        "GNU Make"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML5",
+        "CSS/SASS",
+        "Javascript",
+        "ExtJS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Backend Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "C/C++",
+        "JavaScript",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Containers",
+        "Cloud",
+        "Open Source / Open Standards",
+        "Novel uses of web technologies (e.g. NodeJS and Electron)"
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "keywords": [
+        "My Workshop",
+        "My Home Office",
+        "My Shed"
+      ]
+    }
+  ],
+  "references": []
+}
