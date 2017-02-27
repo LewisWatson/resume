@@ -6,7 +6,7 @@
     "email": "mrlewiswatson@gmail.com",
     "phone": "",
     "website": "https://lewiswatson.co.uk",
-    "summary": "Software Engineer with over 9 years of commercial experience spanning from cloud down to embedded real-time applications. Currently a Senior Application Developer at CGI's Open Digital Services Centre where we specialise in delivering solutions using open source technologies to Government and Industry.<p>In my spare time I explore interesting technologies and contribute to open source. See my Github profile for more info",
+    "summary": "Software Engineer with over 9 years of commercial experience spanning from cloud down to embedded real-time applications. Currently a Senior Application Developer at CGI's Open Digital Services Centre where we specialise in delivering solutions using open source technologies to Government and Industry.<p>In my spare time I explore interesting technologies and contribute to open source. See my Github profile for more info.",
     "location": {
       "countryCode": "GB",
       "region": "Scotland"
@@ -32,7 +32,7 @@
       "startDate": "2014-05-01",
       "summary": "One of the first hires to CGI's Open Digital Services Centre in Glasgow, which specialises in developing solutions around Open Source and Open Standards. I have been fortunate to be involved in helping to shape the processes and culture of the office, while involved with a number of customer projects, acting as project lead for two of them. I have also driven the adoption of open source development tools such as GitLab for source control, Taiga for project management and Mattermost for team collaboration.",
       "highlights": [
-        "Currently Scrum Master and Senior Developer on a large public sector project, working on integrating a new external service in to the existing Service Orientated Architectue. Technologies used include JBoss Fuse ESB, Apache CXF, Apache ActiveMQ, Apache Camel, JBoss Drools BPMS",
+        "Currently Scrum Master and Senior Developer on a large public sector project, working on integrating a new external service in to the existing Service Orientated Architectue. Technologies used include JBoss Fuse ESB, Apache CXF, Apache ActiveMQ, Apache Camel, JBoss Drools BPMS.",
         "Senior Developer on a project developing an Enterprise Service Bus to connect an Automated Traffic Management System to roadside devices. I'm gaining experience with technologies such as Red Hat JBoss Fuse Integration Services, Red Hat Openshift Cloud, Kubernetes, Apache Camel, Apache ActiveMQ and JBoss Drools BPMS.",
         "Project lead on an agile scrum team who delivered a data analysis system for a public sector client. The system used ElasticSearch, Kibana, MongoDB, Docker, and some custom Java components.",
         "Project lead on a team using Kanban for a public sector client to modernise their web service infrastructure. We introduced a number of improvements including containerisation using Docker, automated monitoring with Nagios, an online issue tracker using Taiga, and formal documentation of processes and configuration.",
