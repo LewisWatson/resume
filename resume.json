@@ -5,8 +5,8 @@
     "picture": "",
     "email": "mrlewiswatson@gmail.com",
     "phone": "",
-    "website": "http://lewiswatson.co.uk",
-    "summary": "Software Engineer with over 9 years commercial experience spanning Cloud Web Applications down to embedded C applications. Currently a Senior Application Developer at CGI's Open Digital Services Centre where we specialise in developing customer solutions using open source technologies.",
+    "website": "https://lewiswatson.co.uk",
+    "summary": "Software Engineer with over 9 years of commercial experience spanning from cloud down to embedded real-time applications. Currently a Senior Application Developer at CGI's Open Digital Services Centre where we specialise in delivering solutions using open source technologies to Government and Industry.<p>In my spare time I explore interesting technologies and contribute to open source. See my Github profile for more info",
     "location": {
       "countryCode": "GB",
       "region": "Scotland"
@@ -26,15 +26,16 @@
   },
   "work": [
     {
-      "company": "ODSC - CGI UK",
+      "company": "CGI - Open Digital Services Centre",
       "position": "Senior Software Engineer",
       "website": "http://www.cgi-group.co.uk/",
       "startDate": "2014-05-01",
-      "summary": "One of the first hires to CGI's newly opened Open Digital Services Centre in Glasgow, which specialises in developing solutions around Open Source and Open Standards. I have been fortunate to be involved in helping to shape the processes and culture of the office. During my time here I've been involved with a number of customer projects, acting as project lead for two of them. I have also driven the adoption of an open source development tools such as GitLab for source control, Taiga for project management and Mattermost for team collaboration.",
+      "summary": "One of the first hires to CGI's Open Digital Services Centre in Glasgow, which specialises in developing solutions around Open Source and Open Standards. I have been fortunate to be involved in helping to shape the processes and culture of the office, while involved with a number of customer projects, acting as project lead for two of them. I have also driven the adoption of open source development tools such as GitLab for source control, Taiga for project management and Mattermost for team collaboration.",
       "highlights": [
-        "Currently senior developer on a project developing an Enterprise Service Bus to connect an Automated Traffic Management System to roadside devices. I'm gaining experience with technologies such as Red Hat JBoss Fuse Integration Services, Red Hat Openshift Cloud, Kubernetes, Apache Camel, Apache ActiveMQ and JBoss Drools BPMS.",
+        "Currently Scrum Master and Senior Developer on a large public sector project, working on integrating a new external service in to the existing Service Orientated Architectue. Technologies used include JBoss Fuse ESB, Apache CXF, Apache ActiveMQ, Apache Camel, JBoss Drools BPMS",
+        "Senior Developer on a project developing an Enterprise Service Bus to connect an Automated Traffic Management System to roadside devices. I'm gaining experience with technologies such as Red Hat JBoss Fuse Integration Services, Red Hat Openshift Cloud, Kubernetes, Apache Camel, Apache ActiveMQ and JBoss Drools BPMS.",
         "Project lead on an agile scrum team who delivered a data analysis system for a public sector client. The system used ElasticSearch, Kibana, MongoDB, Docker, and some custom Java components.",
-        "Project lead on a team using Kanban for a public sector client who needed to modernise their web service infrastructure. We introduced a number of improvements including containerisation using Docker, automated monitoring with Nagios, an online issue tracker using Taiga, and formal documentation of processes and configuration.",
+        "Project lead on a team using Kanban for a public sector client to modernise their web service infrastructure. We introduced a number of improvements including containerisation using Docker, automated monitoring with Nagios, an online issue tracker using Taiga, and formal documentation of processes and configuration.",
         "Senior developer on a remote agile scrum team developing Java components for a large public sector project. During this time I gained experience with Apache CXF, JBoss Fuse ESB, and JBoss Portal.",
         "Produced a number technology demonstrations to aid in attracting business to the centre. This involved technologies such as docker, database virtalization, MongoDB, JBoss Fuse Enterprise Service Bus, Open Data Geospatial systems, Hadoop, and Lumify big data analysis + visualisation platform.",
         "Career mentor for two Modern Apprentice Software Engineers."
@@ -57,7 +58,6 @@
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "Heriot-Watt University",
@@ -67,16 +67,24 @@
       "endDate": "2007-06-01",
       "gpa": "",
       "courses": []
+    },
+    {
+      "institution": "Red Hat",
+      "area": "Professional Certifications",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "courses": [
+        "RedHat Certificate of Expertise in Camel Development"
+      ]
     }
   ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
       "name": "Integration",
       "level": "",
       "keywords": [
         "JBoss Fuse ESB",
+        "JBoss Fuse Integration Services",
         "ActiveMQ Messaging",
         "Apache Camel",
         "Drools BPMS",
@@ -88,7 +96,8 @@
       "level": "",
       "keywords": [
         "REST",
-        "SOAP"
+        "SOAP",
+        "{json:api}"
       ]
     },
     {
@@ -97,8 +106,8 @@
       "keywords": [
         "Azure",
         "Rackspace",
-        "OpenShift",
-        "Containers (Docker)"
+        "Kubernetes",
+        "OpenShift"
       ]
     },
     {
@@ -124,25 +133,22 @@
       ]
     },
     {
-      "name": "Web Development",
-      "level": "",
-      "keywords": [
-        "HTML5",
-        "CSS",
-        "SASS",
-        "Javascript",
-        "ExtJS",
-        "Bootstrap"
-      ]
-    },
-    {
       "name": "Backend Languages",
       "level": "",
       "keywords": [
         "Java",
+        "Go",
         "C/C++",
-        "JavaScript",
         "Python"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "Angular2",
+        "ExtJS",
+        "Bootstrap"
       ]
     }
   ],
@@ -156,8 +162,10 @@
     {
       "name": "Technology",
       "keywords": [
-        "Containers",
+        "Kubernetes",
         "Cloud",
+        "Golang",
+        "Progressive Web Applications",
         "Open Source / Open Standards",
         "Novel uses of web technologies (e.g. NodeJS and Electron)"
       ]
@@ -165,9 +173,8 @@
     {
       "name": "Side Projects",
       "keywords": [
-        "My Workshop",
-        "My Home Office",
-        "My Shed"
+        "Open Source Car Share Tracker (see GitHub)",
+        "My combination Workshop/Home Office/Shed"
       ]
     }
   ],
